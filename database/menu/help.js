@@ -41,6 +41,7 @@ const help = (prefix, ownerBot, botName) => {
   ├─ ❏ ${prefix}wame
   ├─ ❏ ${prefix}virtex
   ├─ ❏ ${prefix}qrcode
+  ├─ ❏ ${prefix}Migue
   ├─ ❏ ${prefix}timer
   ├─ ❏ ${prefix}fml
   └─ ❏ ${prefix}fml2`
