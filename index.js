@@ -1066,7 +1066,7 @@ async function starts() {
 				client.sendMessage(from, buff, image, {quoted: mek})
 				break
 				case 'Migue':
-					return reply('Wacala un chaneque ptos')
+					reply('Wacala un chaneque ptos')
 					break
 				case 'ocr':
 					if ((isMedia && !mek.message.videoMessage || isQuotedImage) && args.length == 0) {
